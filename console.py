@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This defines HBnB console. """
+"""Defines the HBnB console."""
 import cmd
 import re
 from shlex import split
@@ -13,10 +13,8 @@ from models.amenity import Amenity  # noqa
 from models.review import Review  # noqa
 
 
-
-
 def parse(arg):
-    """analize the argument string and extract specific patterns.
+    """Parse the argument string and extract specific patterns.
 
     Args:
         arg (str): The arugument string to be parsed.
