@@ -94,7 +94,7 @@
     text-align: left;
   }
   
-  .guest_icon {
+  .icon_guest{
     background-image: url("../images/icon_group.png");
     background-repeat: no-repeat;
     background-position: center;
@@ -103,7 +103,7 @@
     height: 50px;
   }
   
-  .bed_icon {
+  .icon_bed {
     background-image: url("../images/icon_bed.png");
     background-repeat: no-repeat;
     background-position: center;
@@ -112,7 +112,7 @@
     height: 50px;
   }
   
-  .bath_icon {
+  .icon_bath {
     background-image: url("../images/icon_bath.png");
     background-repeat: no-repeat;
     background-position: center;
