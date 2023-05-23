@@ -1,14 +1,15 @@
-header{
+header {
     background-color: white;
     height: 70px;
     width: 100%;
-    border-bottom: 1px solid #CCCCCC; 
-}
-.airbnb_logo{
-    background-image: url('logo.png');
+    border-bottom: 1px solid #cccccc;
+  }
+  
+  .airbnblogo {
+    background-image: url("../images/logo.png");
     background-repeat: no-repeat;
     background-position: center;
     margin-left: 20px;
+    height: 60px;
     width: 142px;
-    height: 100%;
-}
+  }
